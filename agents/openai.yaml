@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remote Shadow Development"
+  short_description: "Local-to-remote shadow workflow"
+  default_prompt: "Use $remote-shadow-development to take over this project with a local workspace and SSH remote shadow directory."
